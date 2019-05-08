@@ -6,7 +6,7 @@ email: shijiale0609@gmail.com
 description: ""
 keyword: ""
 url: "http://shijiale0609.github.io"              # your host, for absolute URL
-baseurl: "/shijialeblog"         # for example, '/blog' if your blog hosted on 'host/blog'
+#baseurl: "/shijialeblog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
