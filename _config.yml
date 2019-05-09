@@ -96,5 +96,9 @@ friends: [
     {
         title: "PKU_CCME",
         href: "http://www.chem.pku.edu.cn"
+    },
+    {
+        title: "Jiang Hong",
+        href: "http://www.chem.pku.edu.cn/jianghgroup/index.htm"
     }
 ]
