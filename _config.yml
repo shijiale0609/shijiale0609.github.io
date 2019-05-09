@@ -68,7 +68,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "拿得起，放得下。不忘初心，不将就。喜欢打篮球、网球。化工量化方向。"
+sidebar-about-description: "拿得起，放得下。不忘初心，不将就。喜欢篮球、网球。化工量化方向。"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -82,19 +82,19 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
+        title: "Github",
+        href: "https://github.com/shijiale0609"
+    },
+    {
         title: "WhitmerGroup",
         href: "https://www3.nd.edu/~jwhitme1/"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+    },
+    {
+        title: "NDCBE",
+        href: "https://cbe.nd.edu"
+    },
+    {
+        title: "PKU_CCME",
+        href: "http://www.chem.pku.edu.cn"
     }
 ]
