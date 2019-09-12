@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Bent-shaped liquid crystals"
+title:      "Novel elastic response in twist-bend nematic models"
 subtitle:   " \"properties of bent-shaped liquid crystals\""
 date:       2019-09-12 02:30:00
 author:     "Jiale"
