@@ -86,12 +86,16 @@ friends: [
         href: "https://github.com/shijiale0609"
     },
     {
+        title:"GoogleScholar",
+        href: "https://scholar.google.com/citations?user=l6Q2OzkAAAAJ&hl=en"
+    }
+    {
         title: "WhitmerGroup",
         href: "https://www3.nd.edu/~jwhitme1/"
     },
     {
         title: "NDCBE",
-        href: "https://cbe.nd.edu"
+        href: "https://engineering.nd.edu/profiles/jshi"
     },
     {
         title: "PKU_CCME",
