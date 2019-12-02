@@ -1,7 +1,7 @@
-# Jiale Blog
+<h1>Academic Website Template</h1>
 
-##### This is the  Jiale Blog. I would talk about my research, life, and thinking on my blog.
+<p>This is a free thing. You may download this and use it to create your own website(s), as long as you abide by the license restrictions.</p>
 
-#### [View Live Jiale Blog &rarr;](https://shijiale0609.github.io)
+<p>Enjoy it and if you like this, drop me a line and let me know!</p>
 
-## It has not been fully completed. I am still working on it. I fork from [Hux](https://github.com/Huxpro/huxpro.github.io). That is a very good template.
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> messages.attribution.is_licensed_by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
