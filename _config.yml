@@ -106,3 +106,5 @@ friends: [
         href: "http://www.chem.pku.edu.cn/jianghgroup/index.htm"
     }
 ]
+
+theme: jekyll-theme-cayman
