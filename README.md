@@ -1,4 +1,4 @@
-<h1>Jiale Shi Personal Academic Website</h1>
+<h1>Dr. Jiale Shi Personal Academic Website</h1>
 
 <p>I use this website to record my research interest, publication, presentation, academic honors and awards.</p>
 
