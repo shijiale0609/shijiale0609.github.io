@@ -99,7 +99,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: rgb(0, 0, 0);
+		color: #888;
 		font-weight: 300;
 		font-size: 13pt;
 	}
@@ -123,7 +123,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #000000;
+		color: #3e3e3e;
 	}
 
 	i, em {
@@ -133,13 +133,13 @@ input, select, textarea {
 	sub {
 		position: relative;
 		top: 0.5em;
-		font-size: 2em;
+		font-size: 0.8em;
 	}
 
 	sup {
 		position: relative;
 		top: -0.5em;
-		font-size: 2em;
+		font-size: 0.8em;
 	}
 
 	blockquote {
@@ -149,7 +149,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: #3e3e3e;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -173,12 +173,12 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2.5em;
+		font-size: 2em;
 		letter-spacing: -0.015em;
 	}
 
 	h3 {
-		font-size: 2em;
+		font-size: 1.5em;
 		letter-spacing: -0.015em;
 	}
 
@@ -192,15 +192,14 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-top: solid 1px rgb(0, 0, 0);
+		border-top: solid 1px #444;
 		border-top-color: rgba(0, 0, 0, 0.35);
 		box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.1);
 		height: 1px;
 		margin: 3em 0;
 	}
 
-	p, ul, ol, dl, a, table {
-		font-size: 1.2em;
+	p, ul, ol, dl, table {
 		margin-bottom: 2em;
 	}
 
@@ -209,7 +208,7 @@ input, select, textarea {
 	}
 
 		header > p {
-			font-size: 2em;
+			font-size: 1.25em;
 			margin: 0;
 		}
 
@@ -1531,7 +1530,7 @@ input, select, textarea {
 		border-radius: 8px;
 		border: solid 1px #ddd;
 		background: #fff;
-		color: rgb(0, 0, 0);
+		color: #bbb;
 		box-shadow: inset 0px 2px 3px 1px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025);
 		width: 100%;
 	}
@@ -1733,7 +1732,7 @@ input, select, textarea {
 			input[type="reset"].alt:hover,
 			button.alt:hover,
 			.button.alt:hover {
-				background-color:#4f4f4f;
+				background-color: #4f4f4f;
 				color: #fff !important;
 			}
 
