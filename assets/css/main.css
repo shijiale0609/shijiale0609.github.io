@@ -149,7 +149,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3e3e3e;
+		color: #000000;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -163,7 +163,7 @@ input, select, textarea {
 	}
 
 	h1 {
-		font-size: 3.25em;
+		font-size: 3.5em;
 		letter-spacing: -0.025em;
 		font-weight: 300;
 	}
@@ -173,12 +173,12 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 2.5em;
 		letter-spacing: -0.015em;
 	}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 2em;
 		letter-spacing: -0.015em;
 	}
 
@@ -200,7 +200,14 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
+		color: #000000;
 		margin-bottom: 2em;
+		font-size: 1.2em;
+	}
+
+	li{
+		color: #000000;
+		font-size: 1.1em;
 	}
 
 	header {
