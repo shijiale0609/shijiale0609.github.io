@@ -209,6 +209,10 @@ input, select, textarea {
 		color: #000000;
 		font-size: 1.1em;
 	}
+	
+	ul {
+		line-height: 45px;
+	  }
 
 	header {
 		margin: 0 0 0em 0;
