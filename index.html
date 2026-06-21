@@ -23,6 +23,23 @@
 				font-size: 0.82em;
 				padding: 0.55em 1.25em;
 			}
+			.mapmyvisitors-hidden,
+			#mapmyvisitors-widget,
+			.mapmyvisitors-map-container,
+			.mapmyvisitors-map,
+			.mapmyvisitors-loading,
+			.mapmyvisitors-visitors,
+			.mapmyvisitors-date,
+			.mapmyvisitors-bottom-text,
+			.jvectormap-container,
+			.jvectormap-tip {
+				display: none !important;
+				height: 0 !important;
+				min-height: 0 !important;
+				overflow: hidden !important;
+				visibility: hidden !important;
+				width: 0 !important;
+			}
 		</style>
 	</head>
 	<body class="is-preload">
@@ -278,7 +295,9 @@
 
 		<div class="container small">
 					<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6q9XTS1El7xivR-DH-Smohh6QTkLs0D2TqA4TpS3SQA&cl=ffffff&w=150"></script>
+					<span class="mapmyvisitors-hidden" aria-hidden="true">
 					<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Lxvzy-l0HNyjGgSAJ20OlV2EyGBEMMMSp4SO0IOVK4Q&cl=ffffff&w=a"></script>
+					</span>
 			</div>
 			<div class="container medium">
 			<footer>
